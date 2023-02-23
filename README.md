@@ -1,0 +1,2 @@
+# OpenMind
+Algorithm Visualization
